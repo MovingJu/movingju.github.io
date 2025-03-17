@@ -1,7 +1,4 @@
-# Affiliates - Free Jekyll Theme
+# [movingju의 탐구 및 공부 사이트](movingju.github.io)
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
-
-And modified by MovingJu
+surfice웹에 올려져 있습니다.
+[구글 검색결과 보기](https://www.google.com/search?q=movingju&sca_esv=22ea0ad1f1a98e14&sxsrf=AHTn8zo6NDua71436i3xHVINsDdKdc2Pfg%3A1742181731479&source=hp&ei=Y5XXZ8HoGqLj2roPn-W4wQw&iflsig=ACkRmUkAAAAAZ9ejc197tASyw2Y_7qvPHjmy9uy534wL&ved=0ahUKEwiBpvLZlJCMAxWisVYBHZ8yLsgQ4dUDCBo&uact=5&oq=movingju&gs_lp=Egdnd3Mtd2l6Ightb3ZpbmdqdTIEECMYJzIOEC4YgAQYxwEYywEYrwEyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FMggQABiABBiiBEjiClDSAVjBB3ABeACQAQCYAaYBoAGJCaoBAzAuOLgBA8gBAPgBAZgCCaACuQmoAgrCAgcQIxgnGOoCwgINECMY8AUYJxjJAhjqAsICChAAGIAEGEMYigXCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgIKEC4Y0QMYAxjHAcICERAuGIAEGLEDGNEDGIMBGMcBwgIEEC4YA8ICCxAuGIAEGLEDGIMBwgIEEAAYA8ICCxAuGIAEGNEDGMcBwgIKEAAYgAQYFBiHAsICBRAAGIAEwgIIEC4YgAQY1ALCAgUQLhiABMICBxAAGIAEGA3CAgoQLhiABBjUAhgNwgIHEC4YgAQYDZgDDfEF0os-RMpr_jaSBwMxLjigB8tO&sclient=gws-wiz)
