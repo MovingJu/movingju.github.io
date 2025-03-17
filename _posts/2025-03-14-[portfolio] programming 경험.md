@@ -4,7 +4,7 @@ title:  "[portfolio] Programming 경험"
 tagline: 실험실
 author: MovingJu
 categories: [portfolio]
-image: assets/images/posts/[programming] programming 경험.png
+image: assets/images/posts/[portfolio] programming 경험.png
 lastmode: 2025-03-12 12:00:00
 sitemap:
   changefreq: daily
