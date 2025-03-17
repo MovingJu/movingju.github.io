@@ -5,7 +5,7 @@ permalink: "/about/"
 image: assets/images/system/logo.png
 ---
 
-Hellow, Guest! 현재 대현고등학교에서 활동 중인 **MovingJu**입니다!
+Hellow, Guest! 현재 경희대학교에서 활동 중인 **MovingJu**입니다!
 
 Github를 가장 주요하게 사용하고 있는 취미 개발자입니다.
 <br>여러 리포지토리들로 개발을 가끔씩 하고 기록하는 걸 좋아하므로 
