@@ -4,7 +4,7 @@ title:  "[portfolio] Programming 경험"
 tagline: 실험실
 author: MovingJu
 categories: [portfolio]
-image: assets/images/posts/[실험] test.png
+image: assets/images/posts/[programming] programming 경험.png
 lastmode: 2025-03-12 12:00:00
 sitemap:
   changefreq: daily
@@ -27,6 +27,10 @@ sitemap:
 
 - 6월: 교내 컴퓨터 비전 프로젝트 대회 수상
 > YOLO v5를 이용한 컴퓨터 비전 활용 프로젝트, 최대 규모의 활용 프로젝트로 입상
+
+- 11월: [DANP](https://github.com/MovingJu/python_DANP)
+> Drug Addicted or Not addicted Project
+> 오픈 소스 이미지에서 마약 복용을 한 사람인지 아닌 사람인지 감지하는 인공지능을 만드는 프로젝트, 매우 어렵고 난해한 이미지셋이지만 나름 좋은 성적을 기록했고, 타 학교에서 발표하며 진행을 함.
 
 
 # 2023
