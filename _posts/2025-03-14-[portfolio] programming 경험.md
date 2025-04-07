@@ -19,6 +19,9 @@ sitemap:
 - 2월: [Pyramid Server 개발](https://github.com/MovingJu/python_server)
 > 유저의 데이터 중 중요한 내용을 전부 암호화해 보안을 극대화하고, 권한을 피라미드처럼 관리해 확장성이 우수한 사이트
 
+- 4월: [제 1회 세모톤 우수상 수상](https://github.com/MovingJu/Semoton_TEAM_12)
+> 2025년 경희대학교 소프트웨어융합대학, 공과대학, 예술디자인대학 3개 학생회에서 개최된 [제 1회 세모톤](https://www.instagram.com/p/DGsJ_Xozl5w)에서 LinKHU라는 캠퍼스 및 제휴 지도를 제작. 당시 백엔드 총괄을 맡음.
+
 
 # 2024
 
