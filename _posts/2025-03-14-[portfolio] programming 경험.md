@@ -22,8 +22,8 @@ sitemap:
 - 4월: [제 1회 세모톤 우수상 수상](https://github.com/MovingJu/Semoton_TEAM_12)
 > 2025년 경희대학교 소프트웨어융합대학, 공과대학, 예술디자인대학 3개 학생회에서 개최된 [제 1회 세모톤](https://www.instagram.com/p/DGsJ_Xozl5w)에서 LinKHU라는 캠퍼스 및 제휴 지도를 제작. 당시 백엔드 총괄을 맡음.
 
-- 5월: [제 10회 KHUTHON 격려상 수상](https://github.com/MovingJu/khuthon)
-> 2025년 경희대학교 쿠러스 주관 쿠톤에서 작물픽이라는 개인 맞춤형 식물 추천 및 식물 관리 캘린더 기능의 풀스택 서비스를 구현함. 당시 개발과 깃허브 관리를 맡음.
+- 5월: [제 10회 KHUTHON 격려상 수상](https://thon.khlug.org/about/2025)
+> 2025년 경희대학교 쿠러스 주관 쿠톤에서 작물픽이라는 개인 맞춤형 식물 추천 및 식물 관리 캘린더 기능의 풀스택 서비스를 구현함. 당시 개발과 깃허브 관리를 맡음. [깃허브 링크](https://github.com/MovingJu/khuthon)
 
 
 # 2024
