@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "f7f7d9b4249f5994",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1a5c6b40497257e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8bd6c2a44037694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-17-[탐구 보고서] 스팸 메일 탐지.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-06-17-[탐구 보고서] 스팸 메일 탐지"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae72332f81f35d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "abc7bc17e52b0086",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87bbb09f61cb0700",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3f207154884e53f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c2486e274743c49d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb2799bab79ee153",
+    "type": "split",
+    "children": [
+      {
+        "id": "121b60967492cc3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a2d27502cd78579",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-06-17-[탐구 보고서] 스팸 메일 탐지.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-06-17-[탐구 보고서] 스팸 메일 탐지"
+            }
+          },
+          {
+            "id": "91ff5fa86db98c02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-06-17-[탐구 보고서] 스팸 메일 탐지.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-06-17-[탐구 보고서] 스팸 메일 탐지"
+            }
+          },
+          {
+            "id": "c9ea4b2f4d493175",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f64ea31256c8ade3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-06-17-[탐구 보고서] 스팸 메일 탐지.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-06-17-[탐구 보고서] 스팸 메일 탐지"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b8bd6c2a44037694",
+  "lastOpenFiles": []
+}
