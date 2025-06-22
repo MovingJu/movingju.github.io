@@ -4,7 +4,7 @@ title:  "[portfolio] Programming 경험"
 tagline: 실험실
 author: MovingJu
 categories: [portfolio]
-image: assets/images/posts/[portfolio] programming 경험.png
+image: assets/images/posts/programming.png
 lastmode: 2025-03-12 12:00:00
 sitemap:
   changefreq: daily
@@ -22,6 +22,8 @@ sitemap:
 - 4월: [제 1회 세모톤 우수상 수상](https://github.com/MovingJu/Semoton_TEAM_12)
 > 2025년 경희대학교 소프트웨어융합대학, 공과대학, 예술디자인대학 3개 학생회에서 개최된 [제 1회 세모톤](https://www.instagram.com/p/DGsJ_Xozl5w)에서 LinKHU라는 캠퍼스 및 제휴 지도를 제작. 당시 백엔드 총괄을 맡음.
 
+- 5월: [제 10회 쿠톤 장려상 수상](https://thon.khlug.org/about/2025)
+> 경희대학교 중앙동아리 쿠러그 주최 쿠톤에서 아주대학교, 경기대학교, 단국대학교 등 4개 대학 연합 대회에서 "농업의 기술화"라는 주제가 발표됨. 이에 맞춰, 작물PICK이라는 개인 맞춤 작물 추천 및 작물 관리 캘린더 기능의 어플리케이션을 제작함. 당시 소셜 로그인 기능과 OpenAI API 연결 및 프롬프트 작성과 깃허브 관리를 담당함.
 
 # 2024
 
